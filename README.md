@@ -13,6 +13,7 @@
 6. `model_LGBM.pkl` > model results
 7. `README.md` > Context to project.
 8. `training_LGBM.ipynb` > IPYNB used for training
+9. `deployment folder` > consists of required code file for streamlit deployment
 
 ## Problem Background
 
