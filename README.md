@@ -83,10 +83,6 @@ Link to dataset : https://www.kaggle.com/datasets/rikdifos/credit-card-approval-
 
     Random Forest is a method that combines the predictions of multiple decision trees to produce a more accurate and stable result. It can be used for both classification and regression tasks. In classification tasks, Random Forest Classification predicts categorical outcomes based on the input data. It uses multiple decision trees and outputs the label that has the maximum votes among all the individual tree predictions.
 
-## Stacks
-
-1. 
-
 ## Reference
 
 1.  Balina, R., & Idasz-Balina, M. (2021). Drivers of Individual Credit Risk of Retail Customers—A Case Study on the Example of the Polish Cooperative Banking Sector. Risks, 9(12), 219. https://doi.org/10.3390/risks9120219
