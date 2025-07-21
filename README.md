@@ -7,14 +7,12 @@
     2. `P2_FinPro_Credit_Record_Raw.csv` > Credit Record of Applicant CSV
     3. `P2_FinPro_Final_Record.csv` > Final CSV used for EDA and modelling.
 2. `EDA.ipynb`> Data Analysis
-3. `FE_Local.ipynb` > Feature Engineering using Local CSV files
-4. `FE_Postgres.ipynb` > Feature Engineering using Postgres as file storage
-5. `inference.ipynb` > Inference file, prooving model
-6. `inference.py` > Python file used for inference
-7. `model_terbaik.pkl` > model results
-8. `README.md` > Context to project.
-9. `training.ipynb` > IPYNB used for training
-10. `vintage_analysis.ipynb` > ipynb used for vintage analysis
+3. `FE_Postgres.ipynb` > Feature Engineering using Postgres as file storage
+4. `inference.ipynb` > Inference file, prooving model
+5. `inference.py` > Python file used for inference
+6. `model_LGBM.pkl` > model results
+7. `README.md` > Context to project.
+8. `training_LGBM.ipynb` > IPYNB used for training
 
 ## Problem Background
 
