@@ -83,3 +83,7 @@ Link to dataset : https://www.kaggle.com/datasets/rikdifos/credit-card-approval-
 3.  The Investopedia Team. (2024, September 23). Credit Risk: Definition, Role of Ratings, and Examples. Investopedia. https://www.investopedia.com/terms/c/creditrisk.asp
 4.  Wells Fargo. (2019). Five Cs of Credit - What Lenders Look For - Wells Fargo. Wellsfargo.com. https://www.wellsfargo.com/financial-education/credit-management/five-c/
 5. Lake, R. (2023, December 8). Personal Loan. Investopedia. https://www.investopedia.com/personal-loan-5076027
+
+## Deployment Link
+Streamlit Credify Deployment: https://credify-loan-detection.streamlit.app/
+
